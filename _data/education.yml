@@ -1,0 +1,82 @@
+- degree: Pluralsight.com
+  uni: Ethical Hacking (CEH Prep2018)
+  #year: 2004 &mdash; 2008
+  awards:
+    - award: Understanding Ethical Hacking
+
+- degree: Cybrary.it
+  uni: Pentesting Learning Path
+  #year: 2004 &mdash; 2008
+  awards:
+    - award: Security Assessment & Testing
+    - award: Intro to Cyber Threat Intelligence
+    - award: CompTIA Security+
+    - award: CompTIA CySA+
+    - award: Metasploit
+    - award: Computer and Hacking Forensics
+    - award: Advanced Penetration Testing
+    - award: Penetration Testing and Ethical Hacking
+    - award: CompTIA Linux+
+
+
+# Degree
+- degree: Lynda.com
+  uni: Ethical Hacking Learning Path
+  #year: 2004 &mdash; 2008
+  awards:
+    - award: Penetration Testing
+    - award: Perimeter Defenses
+    - award: Website and Web Application Testing
+    - award: Trojans and Backdoors
+    - award: Wireless Networks
+    - award: Viruses and Worms
+    - award: Session Hijacking
+    - award: Sniffers
+    - award: Social Engineering
+    - award: Enumeration
+    - award: Scanning Networks
+    - award: System Hacking
+    - award: Denial of Service
+    - award: Footprinting and Reconnaissance
+    - award: Learning Kali Linux
+    - award: Learning Bash Scripting
+    - award: Troubleshooting Your Network with Wireshark
+    - award: Cryptography and Network Security
+    - award: Introduction to Web Design and Development
+    - award: Overview
+
+  #summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: Lynda.com
+  uni: IT Security Specialist Learning Path
+  #year: 2004 &mdash; 2008
+  awards:
+    - award: Computer Security Investigation and Response
+    - award: Cryptography and Network Security
+    - award: Computer Forensics
+    - award: Cybersecurity with Cloud Computing
+    - award: Learning Secure Sockets Layer
+    - award: Cybersecurity for IT Professionals
+    - award: IT Security Foundations - Network Security
+    - award: IT Security Foundations - Operating System Security
+    - award: Cybersecurity Foundations
+    - award: IT Security Foundations - Core Concepts
+
+
+- degree: Pluralsight.com
+  uni: Python Learning Path
+  year: Udemy.com
+  awards:
+    - award: Automate the Boring Stuff with Python
+    - award: Python Fundamentals
+    - award: Python - Getting Started
+    - award: Python - The Big Picture
+
+- degree: Netacad.com
+  uni: Cisco Networking Academy
+  #year: 2004 &mdash; 2008
+  awards:
+    - award: Cybersecurity Essentials
+    - award: Into CyberSecurity
+    - award: NDG Linux Essentials
+    - award: NDG Linux Untatched
