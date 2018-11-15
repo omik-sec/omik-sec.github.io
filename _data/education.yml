@@ -62,16 +62,6 @@
     - award: Cybersecurity Foundations
     - award: IT Security Foundations - Core Concepts
 
-
-- degree: Pluralsight.com
-  uni: Python Learning Path
-  year: Udemy.com
-  awards:
-    - award: Automate the Boring Stuff with Python
-    - award: Python Fundamentals
-    - award: Python - Getting Started
-    - award: Python - The Big Picture
-
 - degree: Netacad.com
   uni: Cisco Networking Academy
   #year: 2004 &mdash; 2008
